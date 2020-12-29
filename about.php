@@ -1,0 +1,1 @@
+username:<? echo info(); ?> email:huyen96mtc@gmail.com dob:1999 sex:male
